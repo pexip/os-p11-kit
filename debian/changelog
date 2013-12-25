@@ -1,3 +1,9 @@
+p11-kit (0.12-2ubuntu1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 25 Dec 2013 01:20:40 +0000
+
 p11-kit (0.12-2ubuntu1) precise; urgency=low
 
   * Merge with Debian, bringing in upstream module and build fixes.
